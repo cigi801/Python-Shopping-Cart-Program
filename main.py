@@ -95,7 +95,7 @@ def print_cart():
   for (i, item) in enumerate(cart, start =1):
     print(i, item)
 
-    
+ #option 3 on main menu, still working on this function   
 def remove_items():
   print_cart()
   print("Which item number would you like to remove? ")
